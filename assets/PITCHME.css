@@ -1,5 +1,7 @@
 .reveal section img {
-    border: blue thick solid !important;
+    border: 0;
+    box-shadow: none;
+    background: none;
 }
 
 .reveal table th, .reveal table td{
@@ -11,6 +13,10 @@
     width: 300px;
     display: inline-block;
     
+}
+
+.pic {
+    border: blue thick solid;
 }
 
 .one{
