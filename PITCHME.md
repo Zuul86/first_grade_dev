@@ -8,17 +8,17 @@
 </table>
 
 ---
-
 <div>
-    <img src="http://image.freepik.com/free-vector/businessman-with-a-great-idea_1012-219.jpg" />
+    <div class="img">
+        <img src="http://image.freepik.com/free-vector/businessman-with-a-great-idea_1012-219.jpg" />
+    </div>
+    <div class="img">
+        <img src="http://www.domstechblog.com/wp-content/uploads/2013/04/the-cloud.jpg"/>
+    </div>
+    <div class="img">
+        <img src="http://previsa.rede-rnc.com.br/wp-content/uploads/sites/5/2016/10/1080x675xcertificado-digital.jpg.pagespeed.ic.Zbz50W9RbK.jpg" />
+    </div>
 </div>
-<div>
-    <img src="http://www.domstechblog.com/wp-content/uploads/2013/04/the-cloud.jpg"/>
-</div>
-<div>
-    <img src="http://previsa.rede-rnc.com.br/wp-content/uploads/sites/5/2016/10/1080x675xcertificado-digital.jpg.pagespeed.ic.Zbz50W9RbK.jpg" />
-</div>
-
 ---
 ### Summary
 
