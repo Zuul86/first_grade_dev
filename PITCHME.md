@@ -1,4 +1,4 @@
-# Deploying a React App on Azure App Service
+### Deploying a React App on Azure App Service
 
 <table>
 <tr>
@@ -8,11 +8,11 @@
 </table>
 
 ---
-# Visualization
+### Visualization
 
 * stuff
 ---
-# Summary
+### Summary
 
 * DevOps using VSTS
 * Deploy to Azure
