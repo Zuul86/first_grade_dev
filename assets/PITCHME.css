@@ -1,7 +1,5 @@
 .reveal section img {
-    border: 0;
-    box-shadow: none;
-    background: none;
+    border: blue thick solid !important;
 }
 
 .reveal table th, .reveal table td{
@@ -9,10 +7,10 @@
     vertical-align: middle;
 }
 
-.img img {
+.img {
     width: 300px;
     display: inline-block;
-    border: blue thick solid !important;
+    
 }
 
 .one{
