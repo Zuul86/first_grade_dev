@@ -15,8 +15,8 @@
     
 }
 
-.pic {
-    border: blue thick solid;
+.reveal section img.pic {
+    border: blue thick solid !important;
 }
 
 .one{
