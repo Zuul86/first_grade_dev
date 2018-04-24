@@ -10,15 +10,16 @@
 ---
 
 <div>
-    <img src="assets/idea.jpg" />
+    <div>
+        <img src="assets/idea.jpg" />
+    </div>
+    <div>
+        <img src="assets/the-cloud.jpg" />
+    </div>
+    <div>
+        <img src="assets/app.png" />
+    </div>
 </div>
-<div>
-    <img src="assets/the-cloud.jpg" />
-</div>
-<div>
-    <img src="assets/app.png" />
-</div>
-
 ---
 ### Summary
 
