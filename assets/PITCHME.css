@@ -9,7 +9,7 @@
     vertical-align: middle;
 }
 
-.img {
+.img img {
     width: 300px;
     display: inline-block;
     border: blue thick solid !important;
