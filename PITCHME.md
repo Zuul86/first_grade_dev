@@ -8,6 +8,7 @@
 </table>
 
 ---
+## Reliability &#183; Quality &#183; Maintainability 
 <div>
     <div class="img one">
         <img class="pic" src="http://image.freepik.com/free-vector/businessman-with-a-great-idea_1012-219.jpg" />
