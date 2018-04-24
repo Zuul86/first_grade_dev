@@ -6,4 +6,5 @@
 
 .reveal table th, .reveal table td{
     border-bottom: none;
+    vertical-align: middle;
 }
