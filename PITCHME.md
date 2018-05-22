@@ -1,6 +1,6 @@
-# What does a __software developer__ do?
+## What does a __software developer__ do?
 ---
-# Where is software?
+## Where is software?
 ---
 
 ![Car](https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2017/01/How-to-Draw-a-cartoon-car-20.png)
@@ -17,11 +17,13 @@
 
 ![Lightbulb](https://assets.pcmag.com/media/images/421626-philips-hue-white-e26-smart-bulb.jpg?width=640&height=471)
 
+---
+
 ![Youtube](https://pmcvariety.files.wordpress.com/2017/09/youtube-logo.png?w=896&h=504&crop=1)
 
 ---
 
-# What do I need to learn?
+## What do I need to learn?
 
 ---
 ### Summary
