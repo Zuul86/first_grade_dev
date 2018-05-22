@@ -31,19 +31,19 @@
 
 ## Math
 
-![Math](https://www.pragmaticmom.com/2012/02/midyear-report-cards-fun-ways-practice-math-facts/)
+![Math](http://clipart-library.com/images/RkcMMxgTj.jpg)
 
 ---
 
 ## Science
 
-![Science](https://thumbs.dreamstime.com/b/science-cartoon-24281442.jpg)
+![Science](http://www.pngmart.com/files/4/Science-PNG-Free-Download.png)
 
 ---
 
 ## Reading & Writing
 
-![Reading](http://all-free-download.com/free-vector/cartoon-pencil.html)
+![Reading](http://images.all-free-download.com/images/graphiclarge/funny_cartoon_pencil_vector_588709.jpg)
 
 ---
 ### Summary
