@@ -28,6 +28,24 @@
 ## What do I need to learn?
 
 ---
+
+## Math
+
+![Math](https://www.pragmaticmom.com/2012/02/midyear-report-cards-fun-ways-practice-math-facts/)
+
+---
+
+## Science
+
+![Science](https://thumbs.dreamstime.com/b/science-cartoon-24281442.jpg)
+
+---
+
+## Reading & Writing
+
+![Reading](http://all-free-download.com/free-vector/cartoon-pencil.html)
+
+---
 ### Summary
 
 * DevOps using VSTS
