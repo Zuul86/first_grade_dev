@@ -33,9 +33,6 @@
 
 ## Math
 
-
-
-
 ---
 
 ## Science
@@ -49,9 +46,10 @@
 ![Reading](http://images.all-free-download.com/images/graphiclarge/funny_cartoon_pencil_vector_588709.jpg)
 
 ---
-### Summary
+<!-- .slide: class="center" -->
+## My Office
 
-* DevOps using VSTS
-* Deploy to Azure
-* Cloud Design Patterns
-* What else is out there?
+---
+<!-- .slide: class="center" -->
+
+![Centare](https://lh3.googleusercontent.com/w1wt28FHlWR-zNfmvx40Cwa1HrVp4x_EZPTIw4s0yZAivswxY_zqwW4YcO2HC5P5hMApaLXMoNvFWnVQylKkJo7skmy86u0GT_NRD3KPQUCZWAjAZk258tp0hGHji_P1wJD1vGE6HxE=w1779-h1000-no)
