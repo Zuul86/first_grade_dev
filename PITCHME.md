@@ -1,17 +1,28 @@
-## What is Software Development?
+# What does a __software developer__ do?
 ---
-### Reliability &#183; Quality Maintainability 
-<div>
-    <div class="img one">
-        <img class="pic" src="http://image.freepik.com/free-vector/businessman-with-a-great-idea_1012-219.jpg" />
-    </div>
-    <div class="img two">
-        <img class="pic" src="http://www.domstechblog.com/wp-content/uploads/2013/04/the-cloud.jpg"/>
-    </div>
-    <div class="img three">
-        <img class="pic" src="http://previsa.rede-rnc.com.br/wp-content/uploads/sites/5/2016/10/1080x675xcertificado-digital.jpg.pagespeed.ic.Zbz50W9RbK.jpg" />
-    </div>
-</div>
+# Where is software?
+---
+
+![Car](https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2017/01/How-to-Draw-a-cartoon-car-20.png)
+
+---
+
+![Minecraft](https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/1/0/4/1046265-minecraft-wallpaper-download-ps3-0f48f.jpg)
+
+---
+
+![Banana](https://images-na.ssl-images-amazon.com/images/I/71gI-IUNUkL._SL1500_.jpg)
+
+---
+
+![Lightbulb](https://assets.pcmag.com/media/images/421626-philips-hue-white-e26-smart-bulb.jpg?width=640&height=471)
+
+![Youtube](https://pmcvariety.files.wordpress.com/2017/09/youtube-logo.png?w=896&h=504&crop=1)
+
+---
+
+# What do I need to learn?
+
 ---
 ### Summary
 
