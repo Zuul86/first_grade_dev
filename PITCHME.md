@@ -1,4 +1,6 @@
-## What does a __software developer__ do?
+## What does a 
+## __software developer__ 
+## do?
 ---
 ## Where is software?
 ---
@@ -11,7 +13,7 @@
 
 ---
 
-![Banana](https://images-na.ssl-images-amazon.com/images/I/71gI-IUNUkL._SL1500_.jpg)
+![Banana](https://media.istockphoto.com/photos/banana-picture-id183380744?k=6&m=183380744&s=612x612&w=0&h=q64r-Nb2A3486LyE_9frNSlFHWDcJPL6PDJ_TwxzsdQ=)
 
 ---
 
