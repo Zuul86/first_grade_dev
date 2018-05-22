@@ -76,7 +76,7 @@
 
 ---
 
-<img src="https://lh3.googleusercontent.com/ta8klV5Dug-0MuhSuHeScbFac8Ix9FAUXZSmDrmAXIhJaLYHMz1mdL0QiQlQkCs1OqSTpoCwmq0-eIC0IKH1NXKDD63uZCXc9nWylm3EcXJEBaYFUsFKXqwzNOn8S0auVEKOapO0Moc=w564-h1002-no" width="33%" />>
+<img src="https://lh3.googleusercontent.com/ta8klV5Dug-0MuhSuHeScbFac8Ix9FAUXZSmDrmAXIhJaLYHMz1mdL0QiQlQkCs1OqSTpoCwmq0-eIC0IKH1NXKDD63uZCXc9nWylm3EcXJEBaYFUsFKXqwzNOn8S0auVEKOapO0Moc=w564-h1002-no" width="33%" />
 
 ---
 <!-- .slide: class="center" -->
