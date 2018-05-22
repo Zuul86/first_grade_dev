@@ -74,9 +74,7 @@
 <!-- .slide: class="center" -->
 ![PingPong](https://lh3.googleusercontent.com/9hmM3I7xNYret9IOCal0ZZvu4RF-t1AaYgE3yIGyrvLu7rek_BNHIJHfZJrZ3n0nwDbKMU9YOsxTzGLy9K-F_2Mfi_Ksq474Dqn7FSqpAWkjRPp18lYM1H278XBh3mqi8jaz9fU-QVE=w1779-h1000-no)
 
----
-<!-- .slide: class="top" -->
-![Gold](https://lh3.googleusercontent.com/ta8klV5Dug-0MuhSuHeScbFac8Ix9FAUXZSmDrmAXIhJaLYHMz1mdL0QiQlQkCs1OqSTpoCwmq0-eIC0IKH1NXKDD63uZCXc9nWylm3EcXJEBaYFUsFKXqwzNOn8S0auVEKOapO0Moc=w564-h1002-no)
+---?image=https://lh3.googleusercontent.com/ta8klV5Dug-0MuhSuHeScbFac8Ix9FAUXZSmDrmAXIhJaLYHMz1mdL0QiQlQkCs1OqSTpoCwmq0-eIC0IKH1NXKDD63uZCXc9nWylm3EcXJEBaYFUsFKXqwzNOn8S0auVEKOapO0Moc=w564-h1002-n&size=auto 50%
 
 ---
 <!-- .slide: class="center" -->
