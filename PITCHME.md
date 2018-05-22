@@ -31,7 +31,7 @@
 
 ## Math
 
-![Math](http://clipart-library.com/images/RkcMMxgTj.jpg)
+![Math](http://clipart-library.com/images/RkcMMxgTj.jpg&size=auto 50%)
 
 ---
 
