@@ -27,7 +27,7 @@
 
 ## What do I need to learn?
 
----?image=http://clipart-library.com/images/RkcMMxgTj.jpg&size=auto 50%&position=bottom
+---?image=http://clipart-library.com/images/RkcMMxgTj.jpg&size=auto 50%
 
 ## Math
 
