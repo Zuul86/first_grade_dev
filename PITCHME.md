@@ -53,3 +53,39 @@
 <!-- .slide: class="center" -->
 
 ![Centare](https://lh3.googleusercontent.com/w1wt28FHlWR-zNfmvx40Cwa1HrVp4x_EZPTIw4s0yZAivswxY_zqwW4YcO2HC5P5hMApaLXMoNvFWnVQylKkJo7skmy86u0GT_NRD3KPQUCZWAjAZk258tp0hGHji_P1wJD1vGE6HxE=w1779-h1000-no)
+
+---
+
+![Centare2](https://lh3.googleusercontent.com/kfNi_orSU5iOFvCjKNbUId53oIy7kFmbRmdxoDcvicBhZ7Nur1DCtWZm4bnRUNdtmAR4lPwMGZgJE2atox52pOVL_ssJIPRWGrFZnKCR5foKT-t-fKptqqmaWIpXsSI7PrcaNvTdyrU=w1779-h1000-no)
+
+---
+
+![MyDesk](https://lh3.googleusercontent.com/pGk6Ljx4ncNLDRAEzlzHPGmAk8ulKy0DDQ_pHV7FpyoN5crzdisVpmsP4-6EgfxfinhIh1aZ40fNEdFAXjgklvKeLgTa7h-hVDT5N8470pax4UPKyI6RsmfV9V16pS_W-4HoR6V-Drs=w1779-h1000-no)
+
+---
+
+![Puzzle](https://lh3.googleusercontent.com/lWA0AVNbnNGbLJeljHaO619bqn2KkB8UpzIhQMuJjW3VruQGlNE1vWJfWa1xgf8nIFf8MsZkECtYx47zgmybK2SjNK0p1xOXd4El7wYexGAwcEmbCEUfkyE-MOcgHCK2pEQh6lUAIds=w1779-h1000-no)
+
+---
+
+![TV](https://lh3.googleusercontent.com/Udmm4iLU8BMpHHXdXVRIQOZJctclhnqkiSMhmnC2w6cfh3DOAp9SrKBchkJX0QmgZ7bQ-A4cHkmNjOl_9xxw6T_2XC1MqiKwNY3Rw3SC2aY_3BzMHHKpw_DeBXgd4qYpkDBsW6G3wec=w1779-h1000-no)
+
+---
+
+![PingPong](https://lh3.googleusercontent.com/9hmM3I7xNYret9IOCal0ZZvu4RF-t1AaYgE3yIGyrvLu7rek_BNHIJHfZJrZ3n0nwDbKMU9YOsxTzGLy9K-F_2Mfi_Ksq474Dqn7FSqpAWkjRPp18lYM1H278XBh3mqi8jaz9fU-QVE=w1779-h1000-no)
+
+---
+
+![Gold](https://lh3.googleusercontent.com/ta8klV5Dug-0MuhSuHeScbFac8Ix9FAUXZSmDrmAXIhJaLYHMz1mdL0QiQlQkCs1OqSTpoCwmq0-eIC0IKH1NXKDD63uZCXc9nWylm3EcXJEBaYFUsFKXqwzNOn8S0auVEKOapO0Moc=w564-h1002-no)
+
+---
+
+### What's the most __important__ thing at my job?
+
+---
+
+# __TEAMWORK!__
+
+---
+
+# Thank You!
